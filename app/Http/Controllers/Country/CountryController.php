@@ -34,6 +34,6 @@ class CountryController extends Controller
         }
         public function countryDelete(Request $request ,CountryModel $country){
             $country->delete();
-             return response()->json($country, 200);
+             return response()->json($country, 204);
         }
 }
