@@ -15,8 +15,8 @@ class CountryController extends Controller
 
     public function country()
     {
-
-        return response()->json(CountryModel::get(), 200);
+    $countryList = CountryModel::get();
+        return response()->json($countryList, 200);
     }
 
     public function countryById($id)
