@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e5f06d2-ea37-4ea5-b53d-c9e54e1262b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/laravel2-1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Country/Country.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Country/Country.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Country/CountryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Country/CountryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/CountryModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/CountryModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,6 +152,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\apiTraining\public" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -180,7 +182,7 @@
       <workItem from="1581802251534" duration="5842000" />
       <workItem from="1581900188788" duration="3112000" />
       <workItem from="1581958054921" duration="1119000" />
-      <workItem from="1581960796272" duration="10172000" />
+      <workItem from="1581960796272" duration="11557000" />
     </task>
     <servers />
   </component>
